@@ -1,6 +1,11 @@
-## Featured projects
+## Hi, I'm Alex 👋
 
-- [Mini-ETL: dbt + Prefect + Data QA](https://github.com/alexkeram/mini-etl-dbt-prefect) — reproducible pipeline: dbt models, Prefect flow, 5+ data tests, one-click run (README/Makefile).
+Backend-data (AE/DE/Data QA).  
+I build **reproducible pipelines** with data quality checks and one-click runs.
 
-- [Heart Risk API — FastAPI + Docker](https://github.com/alexkeram/heart-risk-fastapi-service) — model inference service with tests & CI, `/health` & `/metrics`, one-click run.
+### Featured projects
+- [Mini-ETL: dbt + Prefect + Data QA](https://github.com/alexkeram/mini-etl-dbt-prefect) — reproducible pipeline with dbt models, Prefect flow, and data tests.
+- [Heart Risk API — FastAPI + Docker](https://github.com/alexkeram/heart-risk-fastapi-service) — inference API with tests, CI, and one-click run.
 
+**Stack:** Python · SQL · dbt · Prefect · Great Expectations · FastAPI · Docker  
+**Contact:** https://www.linkedin.com/in/alexkeramika/ 
