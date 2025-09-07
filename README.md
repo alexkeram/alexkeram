@@ -3,7 +3,7 @@
 Backend-data (AE/DE/Data QA).  
 I build **reproducible pipelines** with data quality checks and one-click runs.
 
-### Featured projects
+### Projects
 - [Mini-ETL: dbt + Prefect + Data QA](https://github.com/alexkeram/mini-etl-dbt-prefect) — reproducible pipeline with dbt models, Prefect flow, and data tests.
 - [Heart Risk API — FastAPI + Docker](https://github.com/alexkeram/heart-risk-fastapi-service) — inference API with tests, CI, and one-click run.
 
