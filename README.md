@@ -1,6 +1,6 @@
 ## Hi, I'm Alex 👋
 
-Backend-data (AE/DE/Data QA).  
+Data Engineer / Backend-data.  
 I build **reproducible pipelines** with data quality checks and one-click runs.
 
 ### Projects
