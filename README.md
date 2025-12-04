@@ -4,8 +4,8 @@ Data Engineer / Backend-data.
 I build **reproducible pipelines** with data quality checks and one-click runs.
 
 ### Projects
-- [Mini-ETL: dbt + Prefect + Data QA](https://github.com/alexkeram/mini-etl-dbt-prefect) — reproducible pipeline with dbt models, Prefect flow, and data tests.
-- [Heart Risk API — FastAPI + Docker](https://github.com/alexkeram/heart-risk-fastapi-service) — inference API with tests, CI, and one-click run.
+- [Reproducible ETL Pipeline (dbt, Prefect, DuckDB)](https://github.com/alexkeram/mini-etl-dbt-prefect) — Engineered a fully automated data warehouse pipeline with raw, staging, and marts layers. Implemented data quality gates (custom dbt tests) and orchestration with retries/logging, wrapped in Docker for one-command deployment.
+- [ML Inference Service & CI/CD (FastAPI, Docker, GitHub Actions)](https://github.com/alexkeram/heart-risk-fastapi-service) — Developed a production-ready REST API for model serving with integrated observability metrics (latency, request counts). Built a rigorous CI pipeline including linting (ruff), unit testing (pytest), and contract tests to ensure deployment reliability.
 
 **Stack:** Python · SQL · dbt · Prefect · Great Expectations · FastAPI · Docker  
 **Contact:** https://www.linkedin.com/in/alexkeramika/ 
