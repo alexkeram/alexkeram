@@ -1,6 +1,6 @@
 ## Hi, I'm Alex 👋
 
-Data/AI Engineer with 10+ years of technical background. I specialize in building data pipelines and production-grade ML services with a focus on simplicity of deployment and code quality. I combine deep architectural experience with modern Python and SQL engineering to deliver reliable, scalable solutions.
+ML Engineer focused on applied machine learning, tabular models, semantic search, and model serving. I have experience with data warehouses, business logic, system architecture, documentation, and data flow design.
 
 ### Projects
 - [Reproducible ETL Pipeline (dbt, Prefect, DuckDB)](https://github.com/alexkeram/mini-etl-dbt-prefect) — Engineered a fully automated data warehouse pipeline with raw, staging, and marts layers. Implemented data quality gates (custom dbt tests) and orchestration with retries/logging, wrapped in Docker for one-command deployment.
