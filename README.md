@@ -1,10 +1,22 @@
 ## Hi, I'm Alex 👋
 
-ML Engineer with 1.5+ years of experience designing and implementing machine learning and AI-powered solutions using Python. I specialize in building recommendation systems, RAG-based applications, semantic search solutions, and LLM-powered assistants. I have hands-on experience developing end-to-end ML pipelines, including data extraction, validation, feature engineering, model training, inference, evaluation, and monitoring.
-
-I work extensively with vector databases, embeddings, and retrieval systems, and I have practical experience designing multi-tenant architectures for production environments. My background also includes collaborative filtering, content-based filtering, exploratory data analysis, and applied AI techniques, along with containerized deployments, ETL processes, API integrations, automated testing, and cloud-based solution development.
-
-I focus on delivering reliable, scalable, and production-ready AI solutions, combining strong analytical thinking with a practical, results-driven approach to problem solving.
+Machine Learning Engineer with 5+ years of experience designing and building
+production-ready machine learning and AI solutions in Python. Specialized in
+recommendation systems (collaborative and content-based filtering), tabular models
+with gradient boosting (CatBoost), semantic search, RAG-based applications, and
+LLM-powered assistants. Able to design ML systems from scratch, covering end-to-end
+pipelines from data extraction, validation, EDA, and feature engineering to model
+training, evaluation, monitoring, and serving via production FastAPI microservices. Applies
+statistical evaluation, including cross-validation, threshold optimization, and bootstrap
+confidence intervals, and uses SHAP for explainability. Proficient in Python, SQL,
+pandas, NumPy, scikit-learn, PostgreSQL, Oracle, ChromaDB, and Microsoft Azure, with
+hands-on experience in vector databases, embeddings, retrieval systems, and multi-tenant
+architectures. Skilled in ETL, API integrations, scheduled batch inference, containerized
+deployments with Docker, CI with GitHub Actions, and automated testing with PyTest.
+Takes a domain-driven approach, building a deep understanding of business processes
+before turning business goals into ML problems with appropriate metrics. Backed by a
+strong engineering foundation in data warehouses, system architecture, data flow design,
+and technical documentation.
 
 ## Tech Stack
 
