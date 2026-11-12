@@ -1,44 +1,37 @@
 ## Hi, I'm Alex 👋
 
-Machine Learning Engineer with 5+ years of experience designing and building
-production-ready machine learning and AI solutions in Python. Specialized in
-recommendation systems (collaborative and content-based filtering), tabular models
-with gradient boosting (CatBoost), semantic search, RAG-based applications, and
-LLM-powered assistants. Able to design ML systems from scratch, covering end-to-end
-pipelines from data extraction, validation, EDA, and feature engineering to model
-training, evaluation, monitoring, and serving via production FastAPI microservices. Applies
-statistical evaluation, including cross-validation, threshold optimization, and bootstrap
-confidence intervals, and uses SHAP for explainability. Proficient in Python, SQL,
-pandas, NumPy, scikit-learn, PostgreSQL, Oracle, ChromaDB, and Microsoft Azure, with
-hands-on experience in vector databases, embeddings, retrieval systems, and multi-tenant
-architectures. Skilled in ETL, API integrations, scheduled batch inference, containerized
-deployments with Docker, CI with GitHub Actions, and automated testing with PyTest.
-Takes a domain-driven approach, building a deep understanding of business processes
-before turning business goals into ML problems with appropriate metrics. Backed by a
-strong engineering foundation in data warehouses, system architecture, data flow design,
-and technical documentation.
+MML Engineer with 5+ years of experience in designing and implementing
+machine learning, computer vision and AI-powered solutions using Python.
+Built an OpenCV pipeline for request recognition and parsing in a multi-tenant
+application. Developed end-to-end ML pipelines covering dataset preparation,
+data validation, feature engineering, model training, batch inference, quality
+evaluation, and monitoring. Skilled in building recommendation systems, RAGbased applications, semantic search solutions, and LLM-powered assistants.
+Proficient in FastAPI, scikit-learn, PostgreSQL, ChromaDB, and Microsoft Azure,
+with hands-on experience in vector databases, embeddings, retrieval systems,
+and multi-tenant architectures. Knowledgeable in collaborative filtering,
+content-based filtering, exploratory data analysis, and applied AI techniques.
+Experienced in containerized deployments, ETL processes, API integrations,
+automated testing, and cloud-based solution development. Strong analytical
+and problem-solving skills with a focus on delivering reliable, scalable, and
+production-ready AI solutions.
+
 
 ## Tech Stack
 
-Languages
-Python
-
-Machine Learning and AI
-Hugging Face, pandas, numpy, scikit-learn, sqlalchemy, FastAPI, SciPy, Implicit, ChromaDB, LLM, RAG, Word Embeddings, Semantic Search
-
-Databases
+Python,
+pandas, numpy, OpenCV, scikit-learn, sqlalchemy, PyTorch, FastAPI, SciPy,
+Implicit, ChromaDB, LLM, RAG, Word Embeddings, Semantic Search
+Computer Vision, Semantic Segmentation, Binary and Multiclass Image
+Classification
+Git, GitLab, Gitlab CI
+Hugging Face
 PostgreSQL, SQL, ChromaDB
-
-Cloud
-Microsoft Azure, including VM, Blob Storage, ETL, and Data Warehouse
-
-Infrastructure and Integrations
+Microsoft Azure (VM, Blob Storage, ETL, Data Warehouse)
 Docker, Cron, MCP, JobLogic API, Multi-tenant Architecture, Applied AI
-
-Version Control
-Git, GitLab
-
-Data Science Methods
 Collaborative Filtering, Content-Based Filtering, EDA
+Applied AI, MLflow, Flowise
+Dataset Preparation, Data Quality Validation, Model Evaluation, Batch
+Inference, Automated Testing, Expert-Annotated Ground Truth, Model FineCV draft 1
+Tuning, Inference Benchmarking
 
 **Contact:** https://www.linkedin.com/in/alexkeramika/ 
