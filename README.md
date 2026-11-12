@@ -1,6 +1,6 @@
 ## Hi, I'm Alex 👋
 
-MML Engineer with 5+ years of experience in designing and implementing
+ML/AI Engineer with 5+ years of experience in designing and implementing
 machine learning, computer vision and AI-powered solutions using Python.
 Built an OpenCV pipeline for request recognition and parsing in a multi-tenant
 application. Developed end-to-end ML pipelines covering dataset preparation,
